@@ -32,6 +32,12 @@ grouped by:
 
 ---
 
+## Tools Used
+- PostgreSQL
+- DBeaver
+
+---
+
 ## SQL Query
 
 ```sql
